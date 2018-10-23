@@ -3,7 +3,6 @@
 
 To find odd and even number by taking numbers from user
 
-
 num = int(input("Enter a number: "))
 if (num % 2) == 0:
    print("{0} is Even".format(num))
